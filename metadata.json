@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel - Advanced Password Strength Analyzer",
+  "description": "A world-class security tool to test password strength using zxcvbn-inspired logic, check for data breaches via HaveIBeenPwned, and receive AI-driven security improvements from Gemini.",
+  "requestFramePermissions": []
+}
